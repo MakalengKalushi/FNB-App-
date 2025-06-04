@@ -62,6 +62,7 @@ background-color: forestgreen;
 padding-top     : 12px;  
 }
 
+
 #tabs-bottom a{
 float : left;
 display : block;
@@ -85,6 +86,11 @@ padding-top: 1px;
 padding-bottom: 50px;
 }
 
+
+
+
+
+/* ================INFO-BOX=================== */
 a.info-box{
 text-decoration : none;
 background      : rgba(255 ,225, 55, .8);
@@ -104,6 +110,7 @@ float  : left;
 
 .info-box h3{
 padding : 0;
+margin-top: 20px;
 margin-bottom :0;
 width : 90%;
 color : #572800;
@@ -120,4 +127,14 @@ color   : 131313;
 float      : right;
 margin-top : 25px;
 height   :  40px;
+}
+
+
+#info-box-full{
+    border:1px solid red;
+    background-color:white;
+}
+
+#info-box-full h3{
+    padding: 15px 0;
 }
