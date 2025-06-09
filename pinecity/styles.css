@@ -93,7 +93,7 @@ padding-bottom: 50px;
 /* ================INFO-BOX=================== */
 a.info-box{
 text-decoration : none;
-background      : rgba(255 ,225, 55, .8);
+background      : rgba(209, 208, 199, 0.8);
 width           : 90%;
 height          : 90px;
 display         : block;
@@ -120,7 +120,7 @@ color : #572800;
 margin  : 0;
 padding : 0;
 width   : 90%;
-color   : 131313;
+color   : #131313;
 }
 
 .info-box img.right{
